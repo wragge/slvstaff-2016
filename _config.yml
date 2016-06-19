@@ -5,7 +5,7 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-
+baseurl: "/dha2016"
 kramdown:
 
 
