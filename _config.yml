@@ -1,4 +1,3 @@
-timezone:    Europe/Berlin
 future:      false
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
@@ -8,14 +7,14 @@ lsi:         false
 permalink:   "/:title"
 
 kramdown:
-  smart_quotes: sbquo,lsquo,bdquo,ldquo
+
 
 #gems:
 #  - jemoji
 
-title:       re:claim your blog engine
-author:      Thomas Friese
-description: Presentation für die rp14
+title:       Closed Access
+author:      Tim Sherratt
+description: Presentation for DHA2016
 
 sass:
   style:     :compressed
@@ -74,11 +73,11 @@ reveal:
   ## Opens links in an iframe preview overlay
   #previewLinks: false
   ## Transition style (default/cube/page/concave/zoom/linear/fade/none)
-  #transition: linear
+  transition: fade
   ## Transition speed (default/fast/slow)
   #transitionSpeed: default
   ## Transition style for full page slide backgrounds (default/none/slide/concave/convex/zoom)
-  backgroundTransition: slide
+  backgroundTransition: fade
   ## Number of slides away from the current that are visible
   #viewDistance: 3
   ## Parallax background image (e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'")
