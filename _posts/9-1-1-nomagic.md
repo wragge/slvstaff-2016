@@ -1,4 +1,4 @@
 ---
 layout: slide
-title: "withheld pending advice"
+title: "no magic"
 ---

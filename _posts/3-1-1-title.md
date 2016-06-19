@@ -1,4 +1,4 @@
 ---
 layout: slide
-title: "&lsquo;the public interest&rsquo;"
+title: "the public interest"
 ---
