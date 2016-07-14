@@ -5,7 +5,7 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-baseurl: "/digitalglam"
+baseurl: "/digitalglam-2016"
 kramdown:
 
 
@@ -71,7 +71,7 @@ reveal:
   ## Hides the address bar on mobile devices
   #hideAddressBar: true
   ## Opens links in an iframe preview overlay
-  #previewLinks: false
+  ## previewLinks: true
   ## Transition style (default/cube/page/concave/zoom/linear/fade/none)
   transition: fade
   ## Transition speed (default/fast/slow)
