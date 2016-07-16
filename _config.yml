@@ -5,7 +5,7 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-baseurl: "/slvstaff"
+baseurl: "/slvstaff-2016"
 kramdown:
 
 
