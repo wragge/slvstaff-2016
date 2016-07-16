@@ -1,8 +1,9 @@
 ---
 layout: slide
-title: "DIY Discovery"
+title: "Hacking heritage"
 ---
 
+### power and participation in digital cultural collections
 
 {: .centered }
 ![Closed Access screenshot]({{ site.baseurl}}/assets/images/blackhole.png)
