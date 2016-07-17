@@ -5,7 +5,7 @@ title: ""
 
 # play along
 
-###### [wragge.github.io/digitalglam-2016/](http://wragge.github.io/digitalglam-2016/){: .external}
+###### [wragge.github.io/slvstaff-2016/](http://wragge.github.io/slvstaff-2016/){: .external}
 
 {: .note }
 You might need to let your browser load 'insecure' content to view everything.  
